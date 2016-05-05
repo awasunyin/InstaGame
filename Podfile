@@ -5,4 +5,5 @@ use_frameworks!
 
 target 'InstaGame' do
   pod 'GoogleMaps'
+  pod 'Parse'
 end
